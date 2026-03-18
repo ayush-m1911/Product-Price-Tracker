@@ -1,17 +1,16 @@
 # DealDrop - Smart Product Price Tracker
-### Watch here - https://youtu.be/HakXg-hFZ_c
 
 Track product prices across e-commerce sites and get alerts on price drops. Built with Next.js, Firecrawl, and Supabase.
 
-## 🎯 Features
+##  Features
 
-- 🔍 **Track Any Product** - Works with Amazon, Zara, Walmart, and more
-- 📊 **Price History Charts** - Interactive graphs showing price trends over time
-- 🔐 **Google Authentication** - Secure sign-in with Google OAuth
-- 🔄 **Automated Daily Checks** - Scheduled cron jobs check prices automatically
-- 📧 **Email Alerts** - Get notified when prices drop via Resend
+-  **Track Any Product** - Works with Amazon, Zara, Walmart, and more
+-  **Price History Charts** - Interactive graphs showing price trends over time
+-  **Google Authentication** - Secure sign-in with Google OAuth
+-  **Automated Daily Checks** - Scheduled cron jobs check prices automatically
+-  **Email Alerts** - Get notified when prices drop via Resend
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Next.js 16** - React framework with App Router
 - **Firecrawl** - Web data extraction API
@@ -29,7 +28,7 @@ Track product prices across e-commerce sites and get alerts on price drops. Buil
 - **Recharts** - Interactive charts
 - **Tailwind CSS** - Styling
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have:
 
@@ -39,7 +38,7 @@ Before you begin, ensure you have:
 - A [Resend](https://resend.com) account
 - Google OAuth credentials from [Google Cloud Console](https://console.cloud.google.com/)
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone and Install
 
@@ -231,7 +230,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000)
 
-## 📦 Deployment
+##  Deployment
 
 ### Deploy to Vercel
 
@@ -255,7 +254,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
    - `NEXT_PUBLIC_SUPABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-   - `SUPABASE_SERVICE_ROLE_KEY` ⚠️
+   - `SUPABASE_SERVICE_ROLE_KEY` 
    - `FIRECRAWL_API_KEY`
    - `RESEND_API_KEY`
    - `RESEND_FROM_EMAIL`
@@ -288,7 +287,7 @@ Open [http://localhost:3000](http://localhost:3000)
 
    Add your Vercel domain to Google Cloud Console authorized redirect URIs.
 
-## 🔍 How It Works
+##  How It Works
 
 ### User Flow
 
