@@ -308,16 +308,16 @@ Open [http://localhost:3000](http://localhost:3000)
 
 Firecrawl solves the hard problems of web scraping:
 
-- ✅ **JavaScript Rendering** - Handles dynamic content loaded via JS
-- ✅ **Anti-bot Bypass** - Built-in mechanisms to avoid detection
-- ✅ **Rotating Proxies** - Prevents IP blocking
-- ✅ **AI-Powered Extraction** - Uses prompts to extract structured data
-- ✅ **Multi-site Support** - Same code works across different e-commerce platforms
-- ✅ **Fast & Reliable** - Built for production use
+-  **JavaScript Rendering** - Handles dynamic content loaded via JS
+-  **Anti-bot Bypass** - Built-in mechanisms to avoid detection
+-  **Rotating Proxies** - Prevents IP blocking
+-  **AI-Powered Extraction** - Uses prompts to extract structured data
+-  **Multi-site Support** - Same code works across different e-commerce platforms
+-  **Fast & Reliable** - Built for production use
 
 No need to maintain brittle, site-specific scrapers!
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 dealdrop/
